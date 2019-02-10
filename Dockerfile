@@ -1,4 +1,4 @@
-FROM buildpack-deps:stretch
+FROM arm32v7/buildpack-deps:stretch
 
 LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
